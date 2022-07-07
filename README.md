@@ -15,8 +15,6 @@ I checked the webpage again but found it not looking similar to the image provid
     - Included id to search-engine-optimization, online-reputation-management & social-media-marketing div tags under content class div tag line to make them functional to navigate to corresponding tile.
     - Introduced class tags beside each paragraph tag for content, benifits and footer classes. Done to reflect css code adjustments to reflect on the webpage appropriately.
     
-    (update after uploading to git: changed index.html and css file locations and the href link in html to include slash and path before style.css to satisfy jekyll failing to convert css file to be able to deploy the page.)
-
     CSS code:
     - Consolidated css content to reduce white spaces inbetween each property.
     - Added new syntax lines under header, footer, headings, various other elements, etc to try and match-up the final product the the provided img as close as possible.
@@ -38,6 +36,7 @@ After making the above mentioned changes, I feel that the final website preview 
 
 One challenge I faced while working on this project wasto keep a track of the changes constantly. As such I applied "unit testing" 'methodology' where in I kept of refrencing back to the website after editing each element/child-property to see for the changes (if they made the site look forked/worse or better).
 
+another challenge was to get it to deploy on github which simply wouldnt haappen, either coz of the file positionings or jekyll giving failure on reading css file and then it stopped reading the hero background image in css file...Had to go to netlify to try if it would work there and to my surprise it did and i got my url.
 ## Image(s)
 
 ![alt text](ScreenShot/page_layout_preview.png)
@@ -46,3 +45,4 @@ One challenge I faced while working on this project wasto keep a track of the ch
 
 ![badmath](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![badmath](https://img.shields.io/badge/CSS-Style-blue)
+![badmath](https://www.netlify.com/img/deploy/button.svg)
