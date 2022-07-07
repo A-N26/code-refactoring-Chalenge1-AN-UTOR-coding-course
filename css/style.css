@@ -35,7 +35,7 @@ body {
     text-decoration: none;
 }
 .hero {
-    background-image: url("assets/images/digital-marketing-meeting.jpg");
+    background-image: url("https://homepages.cae.wisc.edu/~ece533/images/airplane.png");
     background-position: center;
     background-size: cover;
     height: 800px;
