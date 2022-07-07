@@ -14,6 +14,7 @@ I checked the webpage again but found it not looking similar to the image provid
     - Inserted alt attribute below each image source tag to as per acceptance criteria.
     - Included id to search-engine-optimization, online-reputation-management & social-media-marketing div tags under content class div tag line to make them functional to navigate to corresponding tile.
     - Introduced class tags beside each paragraph tag for content, benifits and footer classes. Done to reflect css code adjustments to reflect on the webpage appropriately.
+    (update after uploading to git: changed css href link to not include slash and path before css folder to satisfy/bypass jekyll failing to convert css file to be able to deploy the page)
 
     CSS code:
     - Consolidated css content to reduce white spaces inbetween each property.
