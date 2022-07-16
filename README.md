@@ -37,6 +37,9 @@ After making the above mentioned changes, I feel that the final website preview 
 One challenge I faced while working on this project wasto keep a track of the changes constantly. As such I applied "unit testing" 'methodology' where in I kept of refrencing back to the website after editing each element/child-property to see for the changes (if they made the site look forked/worse or better).
 
 another challenge was to get it to deploy on github which simply wouldnt haappen, either coz of the file positionings or jekyll giving failure on reading css file and then it stopped reading the hero background image in css file...Had to go to netlify to try if it would work there and to my surprise it did and i got my url.
+
+for some reason github fails to read any of the files inside assets for me...i tried publishing the url through netlify and it worked. url: https://horiseon-challenge1-anutor22.netlify.app/
+
 ## Image(s)
 
 ![alt text](ScreenShot/page_layout_preview.png)
